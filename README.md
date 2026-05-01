@@ -481,6 +481,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
+- <img src="https://github.com/user-attachments/assets/f90e4b1b-7c9a-4e2a-9f8e-1234567890ab" height="14"/> [mcp-data-api](https://github.com/155143783/mcp-data-api) - 16 developer data tool MCP servers with StreamableHTTP transport. Email validation, DNS lookup, WHOIS, SSL check, IP geolocation, and more. Also includes x402 payment support.
+
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 
 <br />
